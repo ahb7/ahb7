@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Machine Learning Engineer.
+I completed my MS in Data Science from Indiana University Bloomington, USA.
+Prior to that, I worked for several years in the software industry, with companies such as Cisco Systems, McAfee, and Aricent.
+I obtained my BS from NIT, Durgapur, India.
+I am broadly interested in Machine Learning, Deep Learning, and Data Science.
+
+
+![Visitor Count](https://profile-counter.glitch.me/{ahb7}/count.svg)
+![](https://komarev.com/ghpvc/?username=your-github-ahb7&color=green)
