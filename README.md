@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a Machine Learning Engineer.
 I completed my MS in Data Science from Indiana University Bloomington, USA.
 Prior to that, I worked for several years in the software industry, with companies such as Cisco Systems, McAfee, and Aricent.
-I obtained my BS from NIT, Durgapur, India.
+I obtained my BS in Computer Science from NIT, Durgapur, India.
 I am broadly interested in Machine Learning, Deep Learning, and Data Science.
 
 
