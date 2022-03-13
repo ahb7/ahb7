@@ -22,5 +22,4 @@ I obtained my BS from NIT, Durgapur, India.
 I am broadly interested in Machine Learning, Deep Learning, and Data Science.
 
 
-![Visitor Count](https://profile-counter.glitch.me/{ahb7}/count.svg)
 ![](https://komarev.com/ghpvc/?username=your-github-ahb7&color=green)
