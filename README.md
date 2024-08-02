@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Machine Learning Engineer.
+I am a Software Developer Generalist.
 I completed my MS in Data Science from Indiana University Bloomington, USA.
 Prior to that, I worked for several years in the software industry, with companies such as Cisco Systems, McAfee, and Aricent.
 I obtained my BS in Computer Science from NIT, Durgapur, India.
