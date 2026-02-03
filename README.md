@@ -19,7 +19,7 @@ I am an AI/ML Engineer.
 I completed my MS in Data Science from Indiana University Bloomington, USA.
 Prior to that, I worked for several years in the software industry, with companies such as Cisco Systems, McAfee, and Aricent.
 I obtained my BS in Computer Science from NIT, Durgapur, India.
-I am broadly interested in Machine Learning, LLMs, and AI Agent.
+I am broadly interested in Machine Learning, LLMs, and AI Agents.
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-ahb7&color=green)
